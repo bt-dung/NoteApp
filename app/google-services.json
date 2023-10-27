@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "264992985656",
+    "firebase_url": "https://noteapp-6e32f-default-rtdb.firebaseio.com",
+    "project_id": "noteapp-6e32f",
+    "storage_bucket": "noteapp-6e32f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264992985656:android:9300d869b3dbf36417cccd",
+        "android_client_info": {
+          "package_name": "com.ezdev.noteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBT-ZOwsPMMrDcjZDVDn1yoxvFmMBYUus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
